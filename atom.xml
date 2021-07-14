@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuzhi14.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-14T09:05:40.313Z</updated>
+    <title>NIUNIU</title>
+    <updated>2021-07-14T09:11:25.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuzhi14.github.io"/>
     <link rel="self" href="https://zhuzhi14.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://zhuzhi14.github.io/images/avatar.png</logo>
     <icon>https://zhuzhi14.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, NIUNIU</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Niuniu]]></title>
-        <id>https://zhuzhi14.github.io/post/hello-gridea/</id>
-        <link href="https://zhuzhi14.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://zhuzhi14.github.io/post/test/</id>
+        <link href="https://zhuzhi14.github.io/post/test/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-07-14T09:10:02.000Z</updated>
+        <content type="html"><![CDATA[<p>##这是个代码😀😀😀😀😀😀</p>
+<pre><code>    console.log(&quot;hello world&quot;)
+</code></pre>
+<p>##这也是个代码🤓🤓🤓🤓🤓</p>
 ]]></content>
     </entry>
 </feed>
