@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuzhi14.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-14T08:56:25.264Z</updated>
+    <updated>2021-07-14T08:57:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuzhi14.github.io"/>
     <link rel="self" href="https://zhuzhi14.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://zhuzhi14.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello Niuniu]]></title>
         <id>https://zhuzhi14.github.io/post/hello-gridea/</id>
         <link href="https://zhuzhi14.github.io/post/hello-gridea/">
         </link>
